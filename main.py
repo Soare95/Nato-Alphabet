@@ -1,4 +1,4 @@
-import pandas
+import panda
 
 
 data = pandas.read_csv("nato_phonetic_alphabet.csv")
